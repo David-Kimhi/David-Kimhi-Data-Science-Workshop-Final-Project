@@ -8,6 +8,5 @@ The final project in Data Science Workshop course in the Open University.
 
 ### Preview:
 
-![image](https://github.com/David-Kimhi/
-David-Kimhi-Data-Science-Workshop-Final-Project/blob/main/preview.jpg?raw=true)
+![image](https://github.com/David-Kimhi/David-Kimhi-Data-Science-Workshop-Final-Project/blob/main/preview.jpg?raw=true)
 
