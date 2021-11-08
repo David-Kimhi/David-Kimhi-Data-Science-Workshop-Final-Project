@@ -6,3 +6,6 @@ The final project in Data Science Workshop course in the Open University.
 
 **Subject** - Classification of visual face data to age, gender and ethnicity.
 
+### Preview:
+
+
